@@ -76,7 +76,7 @@ const About = () => {
 
       <div className="mt-8">
         <a
-          href="/Ashutosh_Resume.pdf"
+          href="\Ashutosh_Resume.pdf"
           download
           className="inline-block bg-gradient-to-r from-indigo-500 to-purple-500 text-white px-6 py-2 rounded-xl shadow-lg hover:scale-105 transition-transform duration-200"
         >
